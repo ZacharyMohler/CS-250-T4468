@@ -1,10 +1,10 @@
 # CS-250-T4468
 Software Development Lifecycle
 
-#How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
   Interpreting user needs is sometimes quite black and white. "I would like the program to do _this_, _this_, and _this_". Unfortunately, black and white requirements     are a rarity when it comes to CS. Requirements can be vague, contradictory, and seemingly nonsensical. I believe the creation of user stories helps disambiguate         certain requirements while also highlighting missing information to be requested from the client. The base organization user stories provide is a great tool for         highlighting requirements. 
   
-#How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
   I typically approach program development in the standard phases of the software development lifecycle as they were initially taught to me.
   **Planning:** I gather information to ensure I understand the requirements. I organize requirements into categories based on assumed requirement complexity. I also       take time in planning to ensure "sub-requirements" are factored in.
   **Design:** I write out the structure and methods I will use for the entire program, trying my best to look at things from many angles in order to highlight any         problems that may arise.
