@@ -16,7 +16,7 @@ Software Development Lifecycle
   
   In working with teams, I would love to implement Scrum. I believe it to be an excellent alternative to Waterfall in most cases. 
 
-#What does it mean to be a good team member in software development?
+# What does it mean to be a good team member in software development?
   The most fundamental individual trait in being a good team member is **communication**. It is communication, along with programming competency of course, that leads to   an excellent team member.
   
   **Respect for others** is another very important trat that a good team member should have.
